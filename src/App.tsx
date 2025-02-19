@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
+import { useTranslation } from 'react-i18next';
+
 
 
 function App() {
+  const { t }: { t: (key: string) => string } = useTranslation();
+  
   return (
     <div >
-      <h1>This is mfugaji smart website</h1>
+      <h1>{t('greeting')}</h1>
 
     </div>
   );
