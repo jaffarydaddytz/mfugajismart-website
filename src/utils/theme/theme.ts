@@ -11,7 +11,7 @@ const richBlack = '#0a0a0a';
 const lightTheme = createTheme({
   palette: {
     primary: {
-      main: offWhite, // Off-white as the primary background color
+      main: gold, // Off-white as the primary background color
       contrastText: richBlack, // Dark text color on primary background
     },
     secondary: {
@@ -20,13 +20,10 @@ const lightTheme = createTheme({
       dark: '#004d00', // Darker shade of Dark Green for active states
       contrastText: offWhite, // Light text on Dark Green buttons
     },
-    success: {
-      main: gold, // Gold as the tertiary color
-      contrastText: richBlack, // Dark text for gold elements
-    },
+
     background: {
       default: offWhite, // Main background color (off-white)
-      paper: offWhite, // Background color for cards, paper, etc.
+    
     },
     text: {
       primary: richBlack, // Rich Black for primary text

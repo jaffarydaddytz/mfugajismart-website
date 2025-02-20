@@ -1,0 +1,150 @@
+1. Muundo wa Tovuti (Website Structure)
+
+Tovuti iwe na kurasa zifuatazo
+
+A. Ukurasa wa Mwanzo (Home Page)
+
+Nembo na Kauli Mbiu," Mfugaji Smart App – Fuga Kidijitali"
+
+Slideshow/Banner: Picha au video fupi zinazotangaza faida za Mfugaji Smart App.
+
+Maelezo mafupi Kuhusu Mfugaji Smart App na faida zake kwa wafugaji.
+
+Kitufe cha Kupakua App: Viungo vya kupakua kutoka Google Play Store.
+
+
+--------------navigation menu----------------
+logo MfugajiSmart                           Home About services Marketplace FAQ Blogs Contact language
+
+
+--------------footer -----------------------
++ terms of condition  + contact adress
++ privacy policy
+
+---------------hero section--------------
+---headline
+"Mfugaji Smart App – Suluhisho Lako la Kidijitali kwa Kilimo Bora na Faida!"
+"Mfugaji Smart App – Your Digital Solution for Better Farming and Profit!"
+
+---hero content
+Pata nguvu ya teknolojia ya kisasa na Mfugaji Smart App ili kuboresha kilimo 
+chako. Usimamizi bora, taarifa muhimu, na faida zaidi kwa wakulima wote. 
+Fuga na Mfugaji Smart App leo, na anza safari ya mafanikio!
+
+Harness the power of modern technology with Mfugaji Smart App to enhance your 
+farming experience. Efficient management, essential insights, and greater profits 
+for farmers everywhere. Connect with Mfugaji Smart App today and start your 
+success journey!
+
+playstore banner
+-cta
+
+
+
+
+
+B. Kuhusu Sisi (About Us)
+
+Historia ya Mfugaji Smart Company Limited.
+
+Dira na Dhamira ya Kampuni.
+(Dira (Vision)
+
+Kuwa jukwaa namba moja la kidijitali linalowawezesha wafugaji wa Afrika kupata maarifa, rasilimali, na masoko kwa ajili ya kukuza ufugaji wa kisasa na endelevu.
+
+Dhamira (Mission)
+
+Kuboresha sekta ya ufugaji kupitia teknolojia kwa kutoa suluhisho bora na rahisi kwa wafugaji, ikiwa ni pamoja na elimu, usimamizi wa shamba, na upatikanaji wa masoko kupitia Mfugaji Smart App.
+)
+
+
+-------------about----------
+1. history
+2. Vision
+3. mission
+
+
+C. Huduma Zetu (Our Services)
+
+Mfugaji Smart App: Maelezo kuhusu vipengele vya app, kama vile:
+
+Duka Lako(Taarifa ya jinsi ya kuuza na kununua bidhaa kupitia app.)
+
+BAJETI YA CHAKULA (Mfumo wa Ulishaji wa Kuku (Feed Ration))
+
+KUMBUSHO LA SHAMBA,
+
+JAMII YA WAFUGAJI 
+
+Programu za Ushirikiano: Nafasi kwa mashirika na MENGINE kushirikiana na Mfugaji Smart
+
+
+D. Pakua App (Download App)
+
+Kitufe cha moja kwa moja kwenda Google Play Store.
+
+Maelezo mafupi ya app na picha za ndani ya app (Screenshots).
+
+
+E. Masoko na Biashara (Marketplace & Business)
+
+
+
+Ushirikiano na KAMPUNI YA WASTE-PROTEIN TECH LTD PAMOJA NA OCEANCHICK CO LTD Sehemu ya kueleza ushirikiano na wauzaji wa vyakula na vifaranga respectively.
+
+
+F. Blogu na Habari (Blog & News)
+
+Makala mbalimbali kuhusu ufugaji wa kuku na ujasiriamali.
+
+Habari mpya kuhusu maendeleo ya Mfugaji Smart App.
+
+
+G. Maswali Yanayoulizwa Mara kwa Mara (FAQs)
+
+Maswali na majibu kuhusu Mfugaji Smart App na huduma zake.
+
+
+H. Wasiliana Nasi (Contact Us)
+
+Fomu ya mawasiliano kwa wale wanaotaka kuuliza maswali au kushirikiana na Mfugaji Smart.
+
+Barua pepe ya kampuni. 
+
+mfugajismart.taarifa@gmail.com
+
+Namba za simu na WhatsApp. +255759536085
+
+Anwani ya ofisi ya kampuni (PO BOX 131 Mbeya, Tanzania).
+
+
+I. Jisajili (Sign Up / Login)
+
+Kwa wale wanaotaka kujiunga na app moja kwa moja kupitia tovuti.( Kama itawezekana) 
+
+
+
+2. Muonekano wa Tovuti (Website Design & UI/UX)
+
+Rangi Kuu: kijani kibichi, nyeupe na gold.
+
+Mobile Friendly: Tovuti iweze kufanya kazi vizuri kwenye simu na kompyuta.
+
+SEO Optimization: Ili iwe rahisi kupatikana kwenye Google kama ulivyosema. 
+
+Loading Speed: Iwe nyepesi na yenye kasi.
+
+Security.
+
+
+
+
+
+---
+
+3. Vipengele vya Ziada
+
+
+Analytics: Google Analytics kufuatilia idadi ya watembeleaji.
+
+Social Media Links: Viungo vya YouTube, TikTok, Instagram, na WhatsApp.
