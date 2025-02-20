@@ -10,12 +10,12 @@ const Layoutcomponent = () => {
 
 <Headercomponent />
 
-      <Box>
+      <Box sx={{marginX:1}}>
         <Outlet/>
 
       </Box>
 
-      <Footercomponent/>
+   {/*    <Footercomponent/> */}
  
     </>
   )
