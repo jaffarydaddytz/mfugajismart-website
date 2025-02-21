@@ -9,10 +9,12 @@ const Layoutcomponent = () => {
     <>
 
 <Headercomponent />
+<Box sx={{width:'100%', display:'flex', justifyContent:'center'}}>
 
-      <Box sx={{marginX:1}}>
+      <Box sx={{marginX:1, width:'1200px'}}>
         <Outlet/>
 
+      </Box>
       </Box>
 
    {/*    <Footercomponent/> */}

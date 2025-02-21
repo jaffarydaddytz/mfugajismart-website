@@ -1,14 +1,17 @@
 {
-"greeting": "Hello mfugajiSmart!",
-"herocontent": " The number one digital platform enabling African farmers to access knowledge, resources, and markets for the development of modern and sustainable farming...",
-"Home":"Home",
-"Services":"Services",
-"About":"About",
-"Marketplace":"Marketplace",
-"Contact":"Contact",
-"Blogs":"Blogs",
-"FAQ":"FAQ"
-
-}
-
-
+    "greeting": "Hello mfugajiSmart!",
+    "herocontent": "The number one digital platform enabling African farmers to access knowledge, resources, and markets for the development of modern and sustainable farming...",
+    "Home": "Home",
+    "Services": "Services",
+    "About": "About",
+    "Marketplace": "Marketplace",
+    "Contact": "Contact",
+    "Blogs": "Blogs",
+    "FAQ": "FAQ",
+    "headline": "Smart Farming Starts Here",
+    "herotagline": "Manage Your Poultry with Just a Tap!",
+    "hero": "Harness the power of modern technology with Mfugaji Smart App to enhance your farming experience. Efficient management, essential insights, and greater profits for farmers everywhere. Connect with Mfugaji Smart App today and start your success journey!",
+    "getapp":"Get the app",
+    "contactus":"Contact us"
+  }
+  

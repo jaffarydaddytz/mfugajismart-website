@@ -1,5 +1,16 @@
 {
-    "greeting": "Habari mfugajiSmart!",
-    "herocontent":"jukwaa namba moja la kidijitali linalowawezesha wafugaji wa Afrika kupata maarifa, rasilimali, na masoko kwa ajili ya kukuza ufugaji wa kisasa na endelevu."
-  }
-  
+  "greeting": "Habari mfugajiSmart!",
+  "herocontent": "Jukwaa namba moja la kidijitali linalowawezesha wakulima wa Afrika kupata maarifa, rasilimali, na masoko kwa ajili ya maendeleo ya kilimo cha kisasa na endelevu...",
+  "Home": "Nyumbani",
+  "Services": "Huduma",
+  "About": "Kuhusu",
+  "Marketplace": "Masoko",
+  "Contact": "Mawasiliano",
+  "Blogs": "Blogu",
+  "FAQ": "Maswali",
+  "headline": "Kilimo Mahiri Kianzia Hapa",
+  "herotagline": "Simamia Kuku Wako kwa Mguso Mmoja!",
+  "hero": "Tumia nguvu ya teknolojia ya kisasa kwa kutumia Mfugaji Smart App ili kuboresha uzoefu wako wa ufugaji. Usimamizi bora, maarifa muhimu, na faida kubwa kwa wafugaji popote walipo. Ungana na Mfugaji Smart App leo na anza safari yako ya mafanikio!",
+    "contactus":"wasiliana nasi",
+    "getapp":"Pakua app"
+}
