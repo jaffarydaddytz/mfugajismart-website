@@ -11,6 +11,16 @@
   "headline": "Kilimo Mahiri Kianzia Hapa",
   "herotagline": "Simamia Kuku Wako kwa Mguso Mmoja!",
   "hero": "Tumia nguvu ya teknolojia ya kisasa kwa kutumia Mfugaji Smart App ili kuboresha uzoefu wako wa ufugaji. Usimamizi bora, maarifa muhimu, na faida kubwa kwa wafugaji popote walipo. Ungana na Mfugaji Smart App leo na anza safari yako ya mafanikio!",
-    "contactus":"wasiliana nasi",
-    "getapp":"Pakua app"
+    
+    "getapp":"Pakua app",
+    "switch-language":"badili lugha",
+    "quick-links": "Viungo vya Haraka",
+    "help-support": "Msaada na Usaidizi",
+    "our-address": "Anuani Yetu",
+    "address": "Mbeya",
+    "privacy-policy": "Sera ya Faragha",
+    "terms-of-use": "Masharti ya Matumizi",
+    "street": "Mtaa wa Iyunga",
+    "region": "Mbeya",
+    "country": "Tanzania"
 }
