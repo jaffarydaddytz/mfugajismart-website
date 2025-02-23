@@ -207,7 +207,7 @@ const Headercomponent = () => {
                         ? `2px solid  ${theme.palette.primary.main}`
                         : "none",
                   }}>
-                  {t("contact")}
+                  {t("Contact")}
                 </Link>
 
                 <Link

@@ -19,7 +19,8 @@ const Footercomponent = () => {
         color: 'white',
         width: '100%',
         display: 'flex',
-        justifyContent: 'center'
+        justifyContent: 'center',
+        mt:5
       }}
     >
       <Box sx={{ width: '1300px',  }}>
