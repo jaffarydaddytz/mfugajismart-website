@@ -2,12 +2,15 @@
 
 Mfugaji Smart is a web platform designed to help chicken farmers manage their chickens efficiently. The platform provides tools for tracking chickens health, farm records, and productivity insights, enabling informed decision-making for better chicken farm management.
 
-## Available Scripts
+## Tech Stack
 
-In the project directory, you can run:
+* React Js
+* Joy MUI
+* Typescript
 
-### `npm start`
+## Live DEMO
+view live site mfugajismart-website.vercel.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
 
