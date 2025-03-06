@@ -9,7 +9,7 @@ Mfugaji Smart is a web platform designed to help chicken farmers manage their ch
 * Typescript
 
 ## Live DEMO
-[view live site](mfugajismart-website.vercel.app)
+[view live site](mfugajismart-website-5ywfd7loy-jaffary-daddys-projects.vercel.app)
 
 
 
