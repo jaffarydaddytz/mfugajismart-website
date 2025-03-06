@@ -1,6 +1,6 @@
 # Mfugaji Smart Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mfugaji Smart is a web platform designed to help chicken farmers manage their chickens efficiently. The platform provides tools for tracking chickens health, farm records, and productivity insights, enabling informed decision-making for better chicken farm management.
 
 ## Available Scripts
 
